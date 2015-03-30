@@ -1,0 +1,5 @@
+C:\Users\DELL\AppData\Local\Temporary Projects\TestJenkins\bin\Release\TestJenkins.dll
+C:\Users\DELL\AppData\Local\Temporary Projects\TestJenkins\bin\Release\TestJenkins.pdb
+C:\Users\DELL\AppData\Local\Temporary Projects\TestJenkins\obj\Release\ResolveAssemblyReference.cache
+C:\Users\DELL\AppData\Local\Temporary Projects\TestJenkins\obj\Release\TestJenkins.dll
+C:\Users\DELL\AppData\Local\Temporary Projects\TestJenkins\obj\Release\TestJenkins.pdb
