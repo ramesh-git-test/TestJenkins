@@ -1,0 +1,5 @@
+C:\Users\DELL\Documents\Visual Studio 2008\Projects\TestJenkins\test2\bin\Release\test2.dll
+C:\Users\DELL\Documents\Visual Studio 2008\Projects\TestJenkins\test2\bin\Release\test2.pdb
+C:\Users\DELL\Documents\Visual Studio 2008\Projects\TestJenkins\test2\obj\Release\ResolveAssemblyReference.cache
+C:\Users\DELL\Documents\Visual Studio 2008\Projects\TestJenkins\test2\obj\Release\test2.dll
+C:\Users\DELL\Documents\Visual Studio 2008\Projects\TestJenkins\test2\obj\Release\test2.pdb
